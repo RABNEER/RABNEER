@@ -1,49 +1,51 @@
-# Ranveer Kumar
-
-**16 · Jharkhand, India · Building Whiteroom · JEE 2027**
-
-I build things most people my age don't attempt — alone, from scratch, without waiting for permission.
+<h1 align="center">hey, I'm Ranveer</h1>
+<p align="center">18 · Jharkhand, India · still figuring most of this out as I go</p>
 
 ---
 
-### What I'm building right now
+### a bit about me
 
-**[Whiteroom](https://whiteroom.co.in)** — the legal solution to an illegal problem.
+I build things alone, usually at night, usually without knowing if they'll work.
 
-4.5 million schools globally run on WhatsApp groups for student data — violating DPDP Act 2023, GDPR, and FERPA every single day. ₹250 crore fine per violation in India alone. Whiteroom replaces it: a private, compliant platform with native encrypted chat, attendance, an AI agent (Walt) that solves doubts and grades quizzes, and full data portability/erasure — built in, not bolted on.
+I'm not formally trained in most of what I do. No bootcamp, no CS degree (yet — JEE 2027 is the plan), no mentor sitting next to me when I get stuck. I learn from papers, documentation, and a lot of broken code at 2am. I think that's actually the only way I know how to learn.
 
-Built entirely solo. React Native · Hono · PostgreSQL (RLS) · Firebase Auth · AES-256-GCM encryption · RAG-grounded AI.
-
-**5,300+ students pre-booked across 5 institutions before launch. Zero marketing spend. Pilot: August 13, 2026.**
+Right now most of my time goes into two things: **Whiteroom**, a company I'm building solo, and JEE prep, because I still want that too.
 
 ---
 
-### Before this
+### things I've built
 
-- **At 16** — built a 10M parameter language model from scratch. Transformer architecture, manually implemented in Python. No fine-tuning, no base model, no formal ML education. Just papers, documentation, and consumer hardware.
-- **At 15** — led a team of 3 to build an agentic AI system that baited online scammers into revealing their UPI IDs and phishing infrastructure. Zero budget. Zero GPU. It worked.
-- **Ongoing** — run [Apocalypto Labs](https://github.com/RABNEER), an AI automation agency with real clients and real revenue, built on full-code LangChain and Python.
+**🏫 [Whiteroom](https://whiteroom.co.in)**
+A school communication platform I built end to end — mobile app, backend, database, auth, encrypted chat, an AI agent, billing, all of it. Started because I came from the exact school system this fixes — WhatsApp groups, no privacy, no structure. Built solo. Still building it.
 
----
+**🛡️ [Honeypot AI Detection](https://github.com/RABNEER/Honey-Pot-AI-Detection)**
+At 15, built this with two friends — an AI that baits online scammers into exposing themselves. Zero budget, zero GPU, just stubbornness. It actually worked, which surprised all three of us.
 
-### How I think
+**🧠 a 10M parameter LLM, from scratch**
+At 16. Transformer architecture, no fine-tuning, no base model — wrote it myself because I wanted to actually understand what was happening inside these things, not just call an API.
 
-I learned early, through freelancing, that nobody pays for what you build — they pay for what it changes. A client doesn't want a website, they want leads. They don't want a reel, they want views. I stopped selling artifacts and started selling outcomes. That's the entire thesis behind Whiteroom: I'm not selling a messaging app, I'm selling protection from a ₹250 crore fine.
-
----
-
-### Stack
-
-`React Native` `Hono` `PostgreSQL` `Drizzle ORM` `Firebase` `Python` `LangChain` `TypeScript` `C++`
+**💼 Apocalypto Labs**
+An AI automation thing I run on the side — real clients, real work, LangChain and Python, no shortcuts like n8n or Zapier.
 
 ---
 
-### Featured repos
+### what I've learned, mostly the hard way
 
-🛡️ **[Honeypot-AI-Detection](https://github.com/RABNEER/Honey-Pot-AI-Detection)** — agentic scam detection system, built at 15
+Nobody actually wants the thing you build. They want what it does for them. Took me way too long to figure that out through freelancing — I'd build someone a website and they'd ask why they still had no customers. Now I try to think in outcomes first, build second.
 
-📫 **Reach me:** [ranveer@whiteroom.co.in](mailto:ranveer@whiteroom.co.in) · [LinkedIn](https://linkedin.com/in/ranveer-kumar715) · [whiteroom.co.in](https://whiteroom.co.in)
+I also learned I work best completely alone on the first version of anything. Collaboration comes later, once there's something real to react to.
 
 ---
 
-*Two companies. JEE prep. No co-founder. No shortcuts.*
+### stack, roughly
+
+`Python` `TypeScript` `React Native` `Hono` `PostgreSQL` `LangChain` `C++`
+— though honestly I'd rather learn whatever a problem needs than stay loyal to a stack.
+
+---
+
+### find me
+
+[ranveer@whiteroom.co.in](mailto:ranveer@whiteroom.co.in) · [LinkedIn](https://linkedin.com/in/ranveer-kumar715) · [whiteroom.co.in](https://whiteroom.co.in)
+
+<p align="center"><sub>still building. still learning. probably awake right now.</sub></p>
