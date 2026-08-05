@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-16%20YEARS%20OLD-2F4156?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-HIGH%20SCHOOL%20STUDENT-2F4156?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-SELF--TAUGHT-567C8D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-JEE%202027-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156" />
 
@@ -47,12 +47,13 @@ No bootcamp. No CS degree yet — that's what JEE 2027 is for. No mentor sitting
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧠&nbsp; 10M Parameter LLM</h3>
-<p>Built from scratch at 16 — transformer architecture, manually implemented, no fine-tuning, no base model. I wanted to understand what was actually happening inside, not just call an API.</p>
+<h3>🧠&nbsp; LightLLM</h3>
+<p>A 124M parameter LLM built from scratch — GPT-style transformer architecture, manually implemented, no fine-tuning, no base model. I wanted to understand what was actually happening inside, not just call an API.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
+<a href="https://github.com/RABNEER/LightLLM"><b>view repo →</b></a>
 </td>
 <td width="50%" valign="top">
 <h3>📡&nbsp; In Progress</h3>
