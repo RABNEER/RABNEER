@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-18%20YEARS%20OLD-2F4156?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-16%20YEARS%20OLD-2F4156?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-SELF--TAUGHT-567C8D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-JEE%202027-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156" />
 
