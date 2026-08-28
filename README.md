@@ -1,105 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ranveer+%F0%9F%91%8B;I+build+AI+systems+that+actually+do+things.;LLMs+%C2%B7+Agents+%C2%B7+Systems+%C2%B7+Security" alt="Typing intro" />
+# Ranveer Kumar
 
-<a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/RABNEER?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+**AI systems · agents · infrastructure · developer tooling**
 
-<br><br>
+I build software around the parts of AI that are interesting when the model is no longer the whole product.
 
-```text
-ranveer@india:~$ whoami
-
-independent developer & AI builder
-
-> building        LLMs, agentic systems, developer tools
-> interested in   systems, security, inference, infrastructure
-> currently      shipping things that seemed impossible last week
-```
+[Portfolio](https://ranveer-kumar.netlify.app) · [GitHub](https://github.com/RABNEER) · [LinkedIn](https://linkedin.com/in/ranveer-kumar715) · [Email](mailto:ranveer@whiteroom.co.in)
 
 </div>
 
 ---
 
-## projects/
-
-The repos I'd actually send someone to.
+## Featured work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `viking/`
-**AI security, running on the phone.**
+### 🛡️ Viking
 
-On-device Android security with six threat shields, local Gemma inference, encrypted storage and zero telemetry.
+**On-device AI security for Android.**
+
+A privacy-first security layer with six threat shields for SMS, calls, UPI links, APKs, NFC and permissions. Local Gemma inference, encrypted storage, zero telemetry.
 
 `Kotlin` `Android` `Gemma` `SQLCipher`
 
-**[→ source](https://github.com/RABNEER/Viking)**
+[View repository →](https://github.com/RABNEER/Viking)
 
 </td>
 <td width="50%" valign="top">
 
-### `agentbox/`
-**Infrastructure for autonomous agents.**
+### ⚡ AgentBox
 
-Machine-native identity, email, permissions, verification and agent-to-agent delegation, built around Rust + MCP.
+**Infrastructure for autonomous AI agents.**
+
+Machine-native identity, email, scoped capabilities, verification and agent-to-agent task delegation built around a Rust + MCP core.
 
 `Rust` `MCP` `SMTP/IMAP` `SQLite`
 
-**[→ source](https://github.com/RABNEER/AgentBox)**
+[View repository →](https://github.com/RABNEER/AgentBox)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `stream-transformer/`
-**When VRAM is the bottleneck, stream the model.**
+### 🧠 StreamTransformer
 
-Layer-wise transformer execution, async transfers, KV-cache streaming and low-VRAM training/inference.
+**Transformer execution under tight VRAM constraints.**
+
+Layer streaming, asynchronous weight transfer, KV-cache streaming and low-VRAM training/inference for PyTorch.
 
 `Python` `PyTorch` `CUDA`
 
-**[→ source](https://github.com/RABNEER/stream-transformer)** · **[PyPI](https://pypi.org/project/stream-transformer/)**
+[Repository →](https://github.com/RABNEER/stream-transformer) · [PyPI →](https://pypi.org/project/stream-transformer/)
 
 </td>
 <td width="50%" valign="top">
 
-### `apocalypto-env/`
-**Train agents against adversarial social engineering.**
+### 🏗️ Apocalypto-Env
 
-A Meta × Hugging Face OpenEnv environment with scam classification, artifact extraction, reward shaping and a stateful scammer NPC.
+**An RL environment for scam-aware agents.**
+
+A Meta × Hugging Face OpenEnv project combining classification, artifact extraction, reward shaping and adversarial interaction with a stateful scammer NPC.
 
 `Python` `RL` `OpenEnv` `Docker`
 
-**[→ source](https://github.com/RABNEER/Apocalypto-env)**
+[View repository →](https://github.com/RABNEER/Apocalypto-env)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `lightllm/`
-**A 124M language model, built from scratch.**
+### 🧬 LightLLM
 
-A hands-on implementation of the machinery behind a modern GPT-style model — because sometimes the only way to understand it is to build it.
+**A 124M-parameter language model built from scratch.**
 
-`Python` `PyTorch` `LLM`
+A hands-on GPT-style implementation built to understand the mechanics behind language models rather than treating them as an API.
 
-**[→ source](https://github.com/RABNEER/LightLLM)**
+`Python` `PyTorch` `Transformers`
+
+[View repository →](https://github.com/RABNEER/LightLLM)
 
 </td>
 <td width="50%" valign="top">
 
-### `more/`
-**The playground.**
+### More
 
-Civic AI, repository intelligence, real-estate tooling, school infrastructure, experiments and other things that don't deserve to occupy the homepage.
+The public repository list has the rest of the experiments, products and prototypes. I keep this page deliberately focused on the work with the strongest engineering story.
 
-**[→ browse everything](https://github.com/RABNEER?tab=repositories)**
+[Browse all repositories →](https://github.com/RABNEER?tab=repositories)
 
 </td>
 </tr>
@@ -107,40 +99,47 @@ Civic AI, repository intelligence, real-estate tooling, school infrastructure, e
 
 ---
 
-## stack
+## What I like building
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,typescript,javascript,kotlin,pytorch,react,nextjs,nodejs,fastapi,postgres,docker,git&theme=dark" />
+**Models** — architecture, training, inference, efficient execution  
+**Agents** — identity, memory, tools, delegation, communication  
+**Systems** — runtimes, security, constrained compute, infrastructure  
+**Products** — developer tools and AI systems that solve real workflows
+
+---
+
+## Research
+
+### StreamTransformer
+
+*Depth-Invariant Layer-Streaming Architecture for Lossless Full-Precision Neural Execution*
+
+Research into separating transformer execution from the assumption that the full model must remain resident in GPU memory.
+
+[Read the implementation →](https://github.com/RABNEER/stream-transformer)
+
+---
+
+## Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,typescript,javascript,kotlin,pytorch,react,nextjs,nodejs,fastapi,postgres,docker,git&perline=7" />
 </p>
 
-```text
-AI          → LLMs · Agents · RAG · On-device inference
-Systems     → Rust · CUDA · memory efficiency · infrastructure
-Product     → TypeScript · React · Next.js · FastAPI
-```
-
 ---
 
-## activity
+## Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RABNEER&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true" width="96%" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RABNEER&bg_color=ffffff00&color=57606a&line=0969da&point=24292f&area=true&hide_border=true" width="96%" />
+</p>
 
 ---
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   BUILD IT. BREAK IT. UNDERSTAND IT. SHIP IT.      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+**Build useful things. Understand how they work.**
 
-**[ranveer-kumar.netlify.app →](https://ranveer-kumar.netlify.app)**
+[ranveer-kumar.netlify.app](https://ranveer-kumar.netlify.app)
 
 </div>
