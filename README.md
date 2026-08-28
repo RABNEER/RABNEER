@@ -1,21 +1,12 @@
 <div align="center">
 
-<img width="100%" src="assets/terminal.svg" alt="ranveer@dev terminal" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4156,100:567C8D&height=180&section=header&text=Ranveer%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20Jharkhand%2C%20India&descAlignY=58&descSize=18" />
 
-<br><br>
+<br>
 
-<img width="100%" src="assets/ticker.svg?v=1" alt="latest GitHub commit" />
-
-<br><br>
-
-<a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-2F4156?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/RABNEER?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-567C8D?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LINKEDIN-2F5068?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/EMAIL-24364B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-<sub>AI builder · agent infrastructure · systems · on-device AI</sub>
+<img src="https://img.shields.io/badge/-HIGH%20SCHOOL%20STUDENT-2F4156?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-SELF--TAUGHT-567C8D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-JEE%202027-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156" />
 
 </div>
 
@@ -23,33 +14,9 @@
 
 ## ──── About
 
-I build things that make me curious.
+I build things alone, usually at night, usually without knowing if they'll work.
 
-I started with websites and automation, then kept moving closer to the system itself — language models, agent infrastructure, on-device AI, security, and developer tooling.
-
-Most of my work starts with a question that sounds slightly unreasonable: **can this be built differently?**
-
-I learn by reading papers, breaking things, rebuilding them, and shipping the result.
-
-> **Build the thing. Understand the thing. Then make it useful.**
-
-<br>
-
-## ──── Changelog
-
-**v2.6.0** — AgentBox: identity, mailboxes and scoped capabilities
-
-**v2.5.0** — Viking: on-device security shields
-
-**v2.4.0** — StreamTransformer: layer streaming research release
-
-**v2.3.0** — LightLLM: 124M parameters, trained from scratch
-
-**v0.1.0** — wrote my first `<html>` tag. everything since is a fork.
-
-<br>
-
-<img width="100%" src="assets/rain.svg" alt="animated matrix divider" />
+No bootcamp. No CS degree yet — that's what JEE 2027 is for. No mentor sitting next to me when I get stuck. I learn from papers, documentation, and a lot of broken code at 2am. It's the only way I've ever known how to learn.
 
 <br>
 
@@ -58,99 +25,85 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🛡️&nbsp; Viking</h3>
-<p><b>On-device security for Android.</b></p>
-<p>Six threat shields for SMS, calls, UPI links, APKs, NFC and permissions, with local Gemma inference and encrypted storage.</p>
-<p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white"/></p>
-<a href="https://github.com/RABNEER/Viking"><b>view project →</b></a>
+<h3>🏫&nbsp; Whiteroom</h3>
+<p>A school communication platform, built end to end — mobile app, backend, database, auth, encrypted chat, an AI agent, billing. Started because I came from the exact school system this fixes.</p>
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+<a href="https://whiteroom.co.in"><b>whiteroom.co.in →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>⚡&nbsp; AgentBox</h3>
-<p><b>Infrastructure for autonomous agents.</b></p>
-<p>Identity, mailboxes, scoped capabilities, verification workflows and agent-to-agent task delegation — built for machine-native software.</p>
-<p><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-111827?style=flat-square"/> <img src="https://img.shields.io/badge/SMTP%20%2F%20IMAP-EA4335?style=flat-square"/></p>
-<a href="https://github.com/RABNEER/AgentBox"><b>view project →</b></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧠&nbsp; StreamTransformer</h3>
-<p><b>Transformer execution without requiring the whole model in VRAM.</b></p>
-<p>Layer streaming, asynchronous weight transfers and low-VRAM execution for constrained hardware.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/></p>
-<a href="https://github.com/RABNEER/stream-transformer"><b>view project →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>🏗️&nbsp; Apocalypto-Env</h3>
-<p><b>Adversarial RL environment for scam-aware agents.</b></p>
-<p>An OpenEnv environment where agents classify threats, extract artifacts and interact with a stateful scammer.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenEnv-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></p>
-<a href="https://github.com/RABNEER/Apocalypto-env"><b>view project →</b></a>
+<h3>🛡️&nbsp; Honeypot AI Detection</h3>
+<p>Built at 15, with two friends — an autonomous agent that baits online scammers into exposing their own infrastructure. Zero budget, zero GPU, just stubbornness.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-2F4156?style=flat-square"/>
+</p>
+<a href="https://github.com/RABNEER/Honey-Pot-AI-Detection"><b>view repo →</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧬&nbsp; LightLLM</h3>
-<p><b>A 124M-parameter language model built from scratch.</b></p>
-<p>A hands-on GPT-style implementation covering tokenization, attention, training and inference without hiding behind an API.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></p>
-<a href="https://github.com/RABNEER/LightLLM"><b>view project →</b></a>
+<h3>🧠&nbsp; LightLLM</h3>
+<p>A 124M parameter LLM built from scratch — GPT-style transformer architecture, manually implemented, no fine-tuning, no base model. I wanted to understand what was actually happening inside, not just call an API.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+</p>
+<a href="https://github.com/RABNEER/LightLLM"><b>view repo →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>⌘&nbsp; Elsewhere</h3>
-<p><b>More experiments live in the repos.</b></p>
-<p>Product experiments, smaller tools, prototypes and unfinished ideas stay off the profile unless they earn their place.</p>
-<a href="https://github.com/RABNEER?tab=repositories"><b>browse repositories →</b></a>
+<h3>📡&nbsp; In Progress</h3>
+<p>There's usually something half-built I'm not ready to talk about. Check back.</p>
+<p>
+<img src="https://img.shields.io/badge/status-active-2F4156?style=flat-square"/>
+</p>
 </td>
 </tr>
 </table>
-
-<br>
-
-<img width="100%" src="assets/rain.svg" alt="animated matrix divider" />
 
 <br>
 
 ## ──── How I Think
 
 <div align="center">
-<table width="92%">
+<table>
 <tr><td>
+
 <br>
-<p align="center"><i>“Nobody actually wants the thing you build.<br>They want what it does for them.”</i></p>
+
+<p align="center"><i>"Nobody actually wants the thing you build.<br>They want what it does for them."</i></p>
+
 <br>
+
 </td></tr>
 </table>
 </div>
 
-I learned this through building for other people — shipping software is not the same thing as solving the problem underneath it.
+I learned this the hard way through freelancing — I'd build someone a website and they'd ask why they still had no customers. Now I think in outcomes first, build second.
 
-So I try to think **outcome first, implementation second**.
+I also work best completely alone on the first version of anything. Collaboration comes later, once there's something real to react to.
 
 <br>
 
 ## ──── Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,js,kotlin,pytorch,react,nextjs,nodejs,fastapi,postgres,docker,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,postgres,cpp,git&theme=light" />
 </p>
 
-<p align="center"><sub>I'll learn whatever the problem needs.</sub></p>
-
-<br>
-
-## ──── System Monitor
-
-<p align="center">
-<img width="100%" src="assets/panel.svg" alt="GitHub system monitor" />
-</p>
+<p align="center"><sub>I'd rather learn whatever a problem needs than stay loyal to a stack.</sub></p>
 
 <br>
 
 ## ──── Activity
 
 <p align="center">
-<img width="100%" src="assets/activity.svg" alt="GitHub contribution activity" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RABNEER&show_icons=true&hide_border=true&title_color=2F4156&icon_color=567C8D&text_color=333333&bg_color=ffffff" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RABNEER&hide_border=true&background=ffffff&ring=567C8D&fire=2F4156&currStreakLabel=2F4156" />
 </p>
 
 <br>
@@ -160,35 +113,9 @@ So I try to think **outcome first, implementation second**.
 <p align="center">
 <a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/Email-2F4156?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LinkedIn-567C8D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-24364B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://whiteroom.co.in"><img src="https://img.shields.io/badge/Website-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156"/></a>
 </p>
 
 <br>
 
-<details>
-<summary><b>⚠️ sudo access — do not expand</b></summary>
-<br>
-
-```text
-$ sudo ./hidden.sh
-[sudo] password for visitor: ********
-access granted.
-```
-
-> you scrolled. respect.
->
-> email me the phrase **“one layer deeper”** and I'll actually reply.
-
-</details>
-
-<br>
-
-<div align="center">
-
-**build · learn · ship · repeat**
-
-<br><br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:567C8D,100:2F4156&height=80&section=footer" />
-
-</div>
