@@ -1,121 +1,158 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4156,100:567C8D&height=180&section=header&text=Ranveer%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20Jharkhand%2C%20India&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=190&section=header&text=Ranveer%20Kumar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Independent%20Researcher&descAlignY=61&descSize=17" />
 
-<br>
+### I build AI systems from the model layer to the agent layer.
 
-<img src="https://img.shields.io/badge/-HIGH%20SCHOOL%20STUDENT-2F4156?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-SELF--TAUGHT-567C8D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-JEE%202027-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156" />
+[![GitHub](https://img.shields.io/badge/GitHub-RABNEER-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RABNEER)
+[![Website](https://img.shields.io/badge/Website-ranveerkumar.netlify.app-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranveerkumar.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranveer%20Kumar-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranveer-kumar715)
 
 </div>
 
-<br>
+---
 
-## ──── About
+## `whoami`
 
-I build things alone, usually at night, usually without knowing if they'll work.
+I'm **Ranveer**, an independent builder exploring what happens when AI moves beyond chat interfaces.
 
-No bootcamp. No CS degree yet — that's what JEE 2027 is for. No mentor sitting next to me when I get stuck. I learn from papers, documentation, and a lot of broken code at 2am. It's the only way I've ever known how to learn.
+I work across **LLMs, agentic systems, ML infrastructure, developer tools, and full-stack products** — usually going one layer deeper than the API.
 
-<br>
+My projects range from **training a language model from scratch** to building **machine-native infrastructure for autonomous agents** and **memory-efficient transformer execution**.
 
-## ──── Selected Work
+> **Build the primitive. Understand the system. Ship the product.**
 
-<table width="100%">
+---
+
+## ⚡ What I'm Building
+
+<table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏫&nbsp; Whiteroom</h3>
-<p>A school communication platform, built end to end — mobile app, backend, database, auth, encrypted chat, an AI agent, billing. Started because I came from the exact school system this fixes.</p>
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-<a href="https://whiteroom.co.in"><b>whiteroom.co.in →</b></a>
+
+### ⚡ AgentBox
+**Email & identity infrastructure for AI agents.**
+
+Give autonomous agents their own identities, inboxes, authentication, capabilities, and agent-to-agent task delegation.
+
+`Rust` `MCP` `SMTP/IMAP` `SQLite` `NPM`
+
+**→ [Explore AgentBox](https://github.com/RABNEER/AgentBox)**
+
 </td>
 <td width="50%" valign="top">
-<h3>🛡️&nbsp; Honeypot AI Detection</h3>
-<p>Built at 15, with two friends — an autonomous agent that baits online scammers into exposing their own infrastructure. Zero budget, zero GPU, just stubbornness.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-2F4156?style=flat-square"/>
-</p>
-<a href="https://github.com/RABNEER/Honey-Pot-AI-Detection"><b>view repo →</b></a>
+
+### 🧠 StreamTransformer
+**Depth-invariant layer streaming for PyTorch.**
+
+A research project exploring lossless transformer execution and training on hardware with limited GPU memory through layer-wise streaming.
+
+`Python` `PyTorch` `CUDA` `Systems`
+
+**→ [Explore StreamTransformer](https://github.com/RABNEER/stream-transformer)**
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧠&nbsp; LightLLM</h3>
-<p>A 124M parameter LLM built from scratch — GPT-style transformer architecture, manually implemented, no fine-tuning, no base model. I wanted to understand what was actually happening inside, not just call an API.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</p>
-<a href="https://github.com/RABNEER/LightLLM"><b>view repo →</b></a>
+
+### 🧬 LightLLM
+**A language model built from scratch.**
+
+A 124M-parameter GPT-style model implemented to understand the mechanics behind modern language models rather than treating them as black boxes.
+
+`Python` `PyTorch` `Transformers`
+
+**→ [Explore LightLLM](https://github.com/RABNEER/LightLLM)**
+
 </td>
 <td width="50%" valign="top">
-<h3>📡&nbsp; In Progress</h3>
-<p>There's usually something half-built I'm not ready to talk about. Check back.</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-2F4156?style=flat-square"/>
-</p>
+
+### 🏥 Clynic AI
+**Longitudinal patient-to-clinician communication.**
+
+Turning fragmented patient experiences into structured, evidence-grounded clinical context for better conversations between visits.
+
+`Next.js` `FastAPI` `PostgreSQL` `Kotlin`
+
+**→ [Explore Clynic AI](https://github.com/RABNEER/ClynicAI)**
+
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## ──── How I Think
+## 🔬 Research & Experiments
+
+I'm especially interested in the infrastructure underneath AI systems:
+
+- **Memory-efficient neural execution** — streaming model layers instead of requiring the whole model in VRAM.
+- **Autonomous agent infrastructure** — identity, communication, permissions, delegation and auditability.
+- **Small language models** — understanding architectures by implementing them rather than only consuming them.
+- **Agentic developer tooling** — systems where agents can discover work, modify code, run tests and coordinate with other agents.
+- **AI for real-world workflows** — taking research ideas and turning them into usable products.
+
+📄 **Published research:** *StreamTransformer: A Depth-Invariant Layer-Streaming Architecture for Lossless Full-Precision Neural Execution*
+
+---
+
+## 🛠️ The Toolbox
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,docker,git,github,pytorch&theme=dark" />
+</p>
+
+<p align="center"><sub>I don't collect frameworks. I learn whatever the problem requires.</sub></p>
+
+---
+
+## 🧪 Things I've Built
+
+| Project | What it explores |
+|---|---|
+| **AgentBox** | Machine-native email, identity & agent-to-agent delegation |
+| **StreamTransformer** | Layer streaming & low-VRAM neural execution |
+| **LightLLM** | Building a 124M-parameter LLM from scratch |
+| **Clynic AI** | Longitudinal clinical communication |
+| **Hawkeye** | AI-powered urban intelligence |
+| **Nagrik AI** | AI-assisted civic workflows |
+| **Reposense** | Repository intelligence & analysis |
+| **Honey-Pot AI Detection** | Agentic scam detection & investigation |
+| **EstateFlow** | AI-assisted real-estate workflow tooling |
+| **Whiteroom** | End-to-end school communication infrastructure |
+
+[**See everything →**](https://github.com/RABNEER?tab=repositories)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RABNEER&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=RABNEER&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RABNEER&hide_border=true&bg_color=00000000&color=64748B&line=334155&point=0F172A" width="95%" />
+</p>
+
+---
+
+## 🧭 Current Direction
+
+**AI agents → infrastructure → products.**
+
+I'm less interested in making another wrapper around an existing model and more interested in building the systems that make autonomous software **useful, reliable, and capable of operating in the real world.**
+
+If that sounds interesting, let's build something.
 
 <div align="center">
-<table>
-<tr><td>
 
-<br>
+### `RABNEER` / `BUILD • BREAK • UNDERSTAND • REPEAT`
 
-<p align="center"><i>"Nobody actually wants the thing you build.<br>They want what it does for them."</i></p>
+[Email](mailto:ranveer@whiteroom.co.in) · [LinkedIn](https://linkedin.com/in/ranveer-kumar715) · [Website](https://ranveerkumar.netlify.app)
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=90&section=footer" />
 
-</td></tr>
-</table>
 </div>
-
-I learned this the hard way through freelancing — I'd build someone a website and they'd ask why they still had no customers. Now I think in outcomes first, build second.
-
-I also work best completely alone on the first version of anything. Collaboration comes later, once there's something real to react to.
-
-<br>
-
-## ──── Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,postgres,cpp,git&theme=light" />
-</p>
-
-<p align="center"><sub>I'd rather learn whatever a problem needs than stay loyal to a stack.</sub></p>
-
-<br>
-
-## ──── Activity
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RABNEER&show_icons=true&hide_border=true&title_color=2F4156&icon_color=567C8D&text_color=333333&bg_color=ffffff" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RABNEER&hide_border=true&background=ffffff&ring=567C8D&fire=2F4156&currStreakLabel=2F4156" />
-</p>
-
-<br>
-
-## ──── Contact
-
-<p align="center">
-<a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/Email-2F4156?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LinkedIn-567C8D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://whiteroom.co.in"><img src="https://img.shields.io/badge/Website-C8D9E6?style=for-the-badge&logoColor=2F4156&color=C8D9E6&labelColor=2F4156"/></a>
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:567C8D,100:2F4156&height=80&section=footer" />
