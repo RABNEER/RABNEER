@@ -1,19 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24364B,100:5C7B91&height=190&section=header&text=Ranveer%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20Independent%20Developer%20%C2%B7%20Jharkhand%2C%20India&descAlignY=60&descSize=16" />
-
-<br>
-
-<img src="https://img.shields.io/badge/AI%20BUILDER-24364B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-5C7B91?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/RESEARCH-7A95A8?style=for-the-badge&logo=arxiv&logoColor=white" />
-<img src="https://img.shields.io/badge/JEE%202027-D8E3EA?style=for-the-badge&labelColor=24364B" />
+<img width="100%" src="assets/terminal.svg" alt="ranveer@dev terminal" />
 
 <br><br>
 
-<a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-24364B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/RABNEER?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-5C7B91?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-2F4156?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/RABNEER?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-567C8D?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LINKEDIN-2F5068?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/EMAIL-24364B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
 
 </div>
 
@@ -96,9 +92,9 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 <a href="https://github.com/RABNEER/LightLLM"><b>view project →</b></a>
 </td>
 <td width="50%" valign="top">
-<h3>📚&nbsp; Research</h3>
-<p><b>Building things that turn into questions.</b></p>
-<p>Some projects become products. Others become experiments, benchmarks, papers, or rabbit holes. I keep the useful ones here and the unfinished ones in the repo list.</p>
+<h3>⌘&nbsp; The Playground</h3>
+<p><b>The rest of the experiments.</b></p>
+<p>Smaller prototypes, civic AI, product experiments and unfinished ideas stay in the repository list. The profile only gets the work with a story worth telling.</p>
 <a href="https://github.com/RABNEER?tab=repositories"><b>browse repositories →</b></a>
 </td>
 </tr>
@@ -106,16 +102,11 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 
 <br>
 
-## ──── What I Care About
+## ──── System Monitor
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><b>LLMs</b><br><sub>architecture · training · inference</sub></td>
-<td width="25%" align="center"><b>AGENTS</b><br><sub>identity · tools · memory · delegation</sub></td>
-<td width="25%" align="center"><b>SYSTEMS</b><br><sub>runtime · security · efficiency</sub></td>
-<td width="25%" align="center"><b>PRODUCTS</b><br><sub>real users · real workflows</sub></td>
-</tr>
-</table>
+<p align="center">
+<img width="100%" src="assets/panel.svg" alt="live GitHub system monitor" />
+</p>
 
 <br>
 
@@ -127,7 +118,7 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 
 <br>
 
-<p align="center"><i>"The interesting part is usually one layer deeper."</i></p>
+<p align="center"><i>“Nobody actually wants the thing you build.<br>They want what it does for them.”</i></p>
 
 <br>
 
@@ -135,7 +126,9 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 </table>
 </div>
 
-I don't really care whether something is called frontend, backend, AI, systems or research. I care whether the underlying problem is interesting and whether the solution can be made **simple, reliable and useful**.
+I learned this through freelancing — shipping a website is not the same thing as solving the problem behind it. Now I try to think in **outcomes first, implementation second**.
+
+I also like first versions that are small, opinionated and a little uncomfortable. The interesting part usually appears after the prototype works.
 
 <br>
 
@@ -145,7 +138,7 @@ I don't really care whether something is called frontend, backend, AI, systems o
 <img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,js,kotlin,pytorch,react,nextjs,nodejs,fastapi,postgres,docker,git&theme=light" />
 </p>
 
-<p align="center"><sub>Tools change. Curiosity doesn't.</sub></p>
+<p align="center"><sub>I'd rather learn whatever a problem needs than stay loyal to a stack.</sub></p>
 
 <br>
 
