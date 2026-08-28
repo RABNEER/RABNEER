@@ -110,15 +110,16 @@ A research engine for depth-invariant layer streaming, asynchronous weight trans
 
 ---
 
-### 🔬 REPOSENSE
-**The senior architect in a box.**
+### 🏗️ APOCALYPTO-ENV
+**An adversarial RL environment for training scam-aware AI agents.**
 
-An autonomous repository onboarding engine that reconstructs codebase architecture, answers contextual questions and kicks off contribution workflows. Built around **IBM Bob orchestration + Watsonx** with a live deployment and visual demo.
+A Meta × Hugging Face OpenEnv hackathon project built around a three-stage curriculum: scam classification, artifact extraction, and stealthy adversarial engagement with a stateful scammer NPC. Includes deterministic grading, hallucination penalties, dense rewards and reproducible baselines.
 
-[![Live](https://img.shields.io/badge/Live-Demo-111827?style=flat-square&logo=vercel&logoColor=white)](https://reposense-blond.vercel.app)
-[![IBM](https://img.shields.io/badge/IBM-Bob%20%2B%20Watsonx-111827?style=flat-square)](https://github.com/RABNEER/Reposense)
+[![OpenEnv](https://img.shields.io/badge/OpenEnv-Hackathon-111827?style=flat-square)](https://github.com/RABNEER/Apocalypto-env)
+[![Python](https://img.shields.io/badge/Python-RL%20Environment-111827?style=flat-square&logo=python&logoColor=white)](https://github.com/RABNEER/Apocalypto-env)
+[![Docker](https://img.shields.io/badge/Docker-Ready-111827?style=flat-square&logo=docker&logoColor=white)](https://github.com/RABNEER/Apocalypto-env)
 
-**→ [Explore RepoSense](https://github.com/RABNEER/Reposense)**
+**→ [Explore Apocalypto-Env](https://github.com/RABNEER/Apocalypto-env)**
 
 <br>
 
