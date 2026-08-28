@@ -1,0 +1,35 @@
+<svg width="820" height="286" viewBox="0 0 820 286" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101B26"/><stop offset="1" stop-color="#0B1420"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="286" rx="14" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="817" height="283" rx="12.5" fill="none" stroke="#2C4257" stroke-width="2"/>
+  <circle cx="26" cy="24" r="5" fill="#27C93F"/>
+  <text x="42" y="29" font-size="14" fill="#8BABC9">ranveer@github — system monitor</text>
+  <text x="794" y="29" text-anchor="end" font-size="12" fill="#5D7B93">profile telemetry</text>
+  <line x1="0" y1="44" x2="820" y2="44" stroke="#1D2F40"/>
+
+  <text x="30" y="76" font-size="14" fill="#5D7B93">FOCUS</text>
+  <text x="150" y="76" font-size="14" fill="#E6EDF3">LLMs · agents · systems · security</text>
+
+  <text x="30" y="112" font-size="14" fill="#5D7B93">BUILDING</text>
+  <text x="150" y="112" font-size="14" fill="#79C0FF">AgentBox</text>
+  <text x="250" y="112" font-size="14" fill="#5D7B93">identity + communication for autonomous agents</text>
+
+  <text x="30" y="148" font-size="14" fill="#5D7B93">RESEARCH</text>
+  <text x="150" y="148" font-size="14" fill="#79C0FF">StreamTransformer</text>
+  <text x="300" y="148" font-size="14" fill="#5D7B93">memory-efficient transformer execution</text>
+
+  <text x="30" y="184" font-size="14" fill="#5D7B93">PLATFORM</text>
+  <text x="150" y="184" font-size="14" fill="#7EE787">GitHub</text>
+  <text x="225" y="184" font-size="14" fill="#5D7B93">open source · experiments · shipping</text>
+
+  <line x1="30" y1="210" x2="790" y2="210" stroke="#1D2F40"/>
+  <text x="30" y="239" font-size="13" fill="#5D7B93">STATUS</text>
+  <text x="108" y="239" font-size="13" fill="#7EE787">● ONLINE</text>
+  <text x="235" y="239" font-size="13" fill="#5D7B93">curiosity: HIGH</text>
+  <text x="390" y="239" font-size="13" fill="#5D7B93">shipping: ACTIVE</text>
+  <text x="790" y="239" text-anchor="end" font-size="11" fill="#3A5468">generated locally · no broken external asset</text>
+</svg>
