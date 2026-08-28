@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A5F,100:2F6F9F&height=220&section=header&text=RANVEER%20KUMAR&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20BUILDER%20%C2%B7%20SYSTEMS%20ENGINEER%20%C2%B7%20RESEARCHER&descAlignY=62&descSize=16&descColor=C8D9E6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,35:0B1220,70:17253A,100:244B6B&height=230&section=header&text=RANVEER%20KUMAR&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=AI%20BUILDER%20%C2%B7%20SYSTEMS%20ENGINEER%20%C2%B7%20INDEPENDENT%20RESEARCHER&descAlignY=62&descSize=15&descColor=B9CBD9" />
 
 <br>
 
-<a href="https://github.com/RABNEER"><img src="https://img.shields.io/badge/GITHUB-RABNEER-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://ranveerkumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-RANVEERKUMAR.NETLIFY.APP-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LINKEDIN-RANVEER%20KUMAR-2F6F9F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/RABNEER"><img src="https://img.shields.io/badge/GITHUB-RABNEER-090C10?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ranveerkumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-RANVEER%20KUMAR-14263A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LINKEDIN-RANVEER%20KUMAR-1E4A6B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
 
 ### I build the systems underneath AI.
 
-<sub>From models → agents → infrastructure → products.</sub>
+<sub>Models → agents → infrastructure → products</sub>
 
 </div>
 
@@ -20,130 +20,133 @@
 
 ---
 
-## `01` · ABOUT
+## `00` / SIGNAL
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="68%" valign="top">
 
-I'm **Ranveer** — an independent AI builder and researcher from **Jharkhand, India**.
+### Building AI is more interesting below the API.
 
-I like going one layer deeper than the API: understanding how models work, how agents communicate, how infrastructure behaves under constraints, and how research becomes something people can actually use.
+I'm **Ranveer**, an independent builder from **Jharkhand, India** working across **LLMs, agentic systems, ML infrastructure, security, developer tooling, and full-stack products**.
 
-Right now I'm exploring the intersection of **LLMs, agentic systems, ML infrastructure, developer tooling, and real-world AI products**.
-
-<br>
-
-> **Build the primitive. Understand the system. Ship the product.**
+I like projects where the interesting part is the system itself: an on-device AI security layer, an identity and communication layer for agents, a memory-constrained transformer runtime, or a language model built from first principles.
 
 </td>
-<td width="40%" valign="top">
+<td width="32%" valign="top">
 
 ```text
-FOCUS
+CURRENT MODE
 
-01  AI Systems
-02  Agent Infrastructure
-03  ML / LLM Research
-04  Developer Tools
-05  Product Engineering
-
-MODE
-
-BUILD → BREAK → LEARN
-        → REPEAT
+RESEARCH
+   ↓
+SYSTEMS
+   ↓
+PROTOTYPE
+   ↓
+SHIP
+   ↓
+REPEAT
 ```
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+> **BUILD THE PRIMITIVE. UNDERSTAND THE SYSTEM. SHIP THE PRODUCT.**
+
+</div>
+
 ---
 
-## `02` · SELECTED WORK
+## `01` / SELECTED BUILDS
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ⚡ AgentBox
-**Machine-native infrastructure for AI agents.**
+### 🛡️ VIKING
+**An AI bodyguard for your phone.**
 
-Identity, email, authentication, capabilities and agent-to-agent task delegation — built as infrastructure rather than another chat wrapper.
+Runs on-device with six security shields across SMS, calls, UPI links, APKs, NFC and app permissions. Uses a local **Gemma 270M INT4** engine with encrypted storage and no telemetry by design.
 
-`Rust` `MCP` `SMTP/IMAP` `SQLite` `NPM`
+[![Android](https://img.shields.io/badge/Android-Kotlin-111827?style=flat-square&logo=android&logoColor=white)](https://github.com/RABNEER/Viking)
+[![On-device AI](https://img.shields.io/badge/AI-Gemma%20270M%20INT4-111827?style=flat-square)](https://github.com/RABNEER/Viking)
+[![Privacy](https://img.shields.io/badge/Privacy-Zero%20Telemetry-111827?style=flat-square)](https://github.com/RABNEER/Viking)
 
-<a href="https://github.com/RABNEER/AgentBox"><b>EXPLORE PROJECT →</b></a>
+**→ [Explore Viking](https://github.com/RABNEER/Viking)**
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-### 🧠 StreamTransformer
-**Memory-efficient transformer execution.**
+---
 
-A research system exploring layer-wise streaming, depth-invariant GPU memory and lossless execution on constrained hardware.
+### ⚡ AGENTBOX
+**The identity & communication layer for autonomous agents.**
 
-`Python` `PyTorch` `CUDA` `Systems`
+Machine-native email identity, inboxes, scoped capabilities, OTP/verification workflows, event-driven mail handling and agent-to-agent task delegation — implemented around a fast **Rust + MCP** core.
 
-<a href="https://github.com/RABNEER/stream-transformer"><b>EXPLORE PROJECT →</b></a>
+[![Rust](https://img.shields.io/badge/Core-Rust-111827?style=flat-square&logo=rust&logoColor=white)](https://github.com/RABNEER/AgentBox)
+[![MCP](https://img.shields.io/badge/Protocol-MCP-111827?style=flat-square)](https://github.com/RABNEER/AgentBox)
+[![NPM](https://img.shields.io/badge/Package-agentbox--mail-111827?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentbox-mail)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**→ [Explore AgentBox](https://github.com/RABNEER/AgentBox)**
 
-### 🧬 LightLLM
+<br>
+
+---
+
+### 🧠 STREAMTRANSFORMER
+**Push transformer scale beyond GPU memory.**
+
+A research engine for depth-invariant layer streaming, asynchronous weight transfer, layer-wise KV caching and low-VRAM execution/training with PyTorch.
+
+[![Python](https://img.shields.io/badge/Python-PyTorch-111827?style=flat-square&logo=python&logoColor=white)](https://github.com/RABNEER/stream-transformer)
+[![CUDA](https://img.shields.io/badge/CUDA-Streaming-111827?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/RABNEER/stream-transformer)
+[![PyPI](https://img.shields.io/pypi/v/stream-transformer.svg?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/stream-transformer/)
+
+**→ [Explore StreamTransformer](https://github.com/RABNEER/stream-transformer)**
+
+<br>
+
+---
+
+### 🔬 REPOSENSE
+**The senior architect in a box.**
+
+An autonomous repository onboarding engine that reconstructs codebase architecture, answers contextual questions and kicks off contribution workflows. Built around **IBM Bob orchestration + Watsonx** with a live deployment and visual demo.
+
+[![Live](https://img.shields.io/badge/Live-Demo-111827?style=flat-square&logo=vercel&logoColor=white)](https://reposense-blond.vercel.app)
+[![IBM](https://img.shields.io/badge/IBM-Bob%20%2B%20Watsonx-111827?style=flat-square)](https://github.com/RABNEER/Reposense)
+
+**→ [Explore RepoSense](https://github.com/RABNEER/Reposense)**
+
+<br>
+
+---
+
+### 🧬 LIGHTLLM
 **A language model built from scratch.**
 
-A 124M-parameter GPT-style model created to understand the mechanics behind modern language models instead of treating them as black boxes.
+A **124M-parameter GPT-style model** built to understand what actually happens inside a modern language model instead of treating the model as an API-shaped black box.
 
-`Python` `PyTorch` `Transformers`
+[![Python](https://img.shields.io/badge/Python-PyTorch-111827?style=flat-square&logo=python&logoColor=white)](https://github.com/RABNEER/LightLLM)
+[![LLM](https://img.shields.io/badge/LLM-124M%20Parameters-111827?style=flat-square)](https://github.com/RABNEER/LightLLM)
 
-<a href="https://github.com/RABNEER/LightLLM"><b>EXPLORE PROJECT →</b></a>
+**→ [Explore LightLLM](https://github.com/RABNEER/LightLLM)**
 
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Clynic AI
-**Longitudinal patient → clinician communication.**
-
-Turning fragmented experiences between visits into structured, evidence-grounded clinical context.
-
-`Next.js` `FastAPI` `PostgreSQL` `Kotlin`
-
-<a href="https://github.com/RABNEER/ClynicAI"><b>EXPLORE PROJECT →</b></a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## `03` · WHAT I'M EXPLORING
+## `02` / THE PATTERN
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
-
-### ◈ AGENTS
-
-Identity · Memory · Delegation · Permissions · Communication
-
-</td>
-<td width="33%" align="center">
-
-### ◈ MODELS
-
-Architecture · Training · Inference · Efficient execution
-
-</td>
-<td width="33%" align="center">
-
-### ◈ PRODUCTS
-
-AI workflows · Developer tools · Real-world systems
-
-</td>
+<td align="center" width="20%"><b>MODELS</b><br><sub>architecture · training · inference</sub></td>
+<td align="center" width="20%"><b>AGENTS</b><br><sub>identity · memory · delegation</sub></td>
+<td align="center" width="20%"><b>SYSTEMS</b><br><sub>runtime · security · efficiency</sub></td>
+<td align="center" width="20%"><b>TOOLS</b><br><sub>developer workflows · automation</sub></td>
+<td align="center" width="20%"><b>PRODUCTS</b><br><sub>real-world AI applications</sub></td>
 </tr>
 </table>
 
@@ -151,88 +154,66 @@ AI workflows · Developer tools · Real-world systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RABNEER&bg_color=0B1220&color=C8D9E6&line=4F86A8&point=FFFFFF&area=true&hide_border=true" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RABNEER&bg_color=05070B&color=B9CBD9&line=477EA4&point=F8FAFC&area=true&hide_border=true" width="96%" />
 
 </div>
 
 ---
 
-## `04` · RESEARCH
+## `03` / RESEARCH
 
-**StreamTransformer — A Depth-Invariant Layer-Streaming Architecture for Lossless Full-Precision Neural Execution**
+### StreamTransformer
+*Depth-Invariant Layer-Streaming Architecture for Lossless Full-Precision Neural Execution*
 
-A research project investigating whether transformer execution can be decoupled from the assumption that the entire model must live in GPU memory simultaneously.
+Investigating how transformer execution can be decoupled from the assumption that every model layer has to remain resident in GPU memory.
 
-**Core ideas:** layer streaming · constant-memory execution · asynchronous transfers · KV-cache streaming · low-VRAM training
+**Focus:** `layer streaming` · `constant-memory execution` · `async transfer` · `KV-cache streaming` · `low-VRAM training`
 
-📄 [Read the research / implementation →](https://github.com/RABNEER/stream-transformer)
+📄 **Research + implementation →** [stream-transformer](https://github.com/RABNEER/stream-transformer)
 
 ---
 
-## `05` · TOOLBOX
+## `04` / STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,docker,git,github,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,typescript,javascript,kotlin,react,nextjs,nodejs,fastapi,postgres,docker,git,github,pytorch&theme=dark" />
 
 <br><br>
 
-<sub><b>I don't collect frameworks.</b> I learn whatever the problem requires.</sub>
+<sub>I don't collect frameworks. I learn whatever the problem requires.</sub>
 
 </div>
 
 ---
 
-## `06` · THINGS I'VE BUILT
-
-| Project | Direction |
-| :--- | :--- |
-| ⚡ **AgentBox** | AI agent identity, email & delegation infrastructure |
-| 🧠 **StreamTransformer** | Layer streaming & low-VRAM neural execution |
-| 🧬 **LightLLM** | 124M-parameter language model from scratch |
-| 🏥 **Clynic AI** | Longitudinal clinical communication |
-| 🛰️ **Hawkeye** | Urban AI & civic intelligence |
-| 🏛️ **Nagrik AI** | AI-assisted civic workflows |
-| 🔎 **Reposense** | Repository intelligence & analysis |
-| 🛡️ **Honey-Pot AI** | Agentic scam detection & investigation |
-| 🏠 **EstateFlow** | AI-assisted real-estate workflows |
-| 🏫 **Whiteroom** | School communication infrastructure |
+## `05` / GITHUB
 
 <div align="center">
 
-<a href="https://github.com/RABNEER?tab=repositories"><b>VIEW ALL REPOSITORIES →</b></a>
-
-</div>
-
----
-
-## `07` · GITHUB
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RABNEER&show_icons=true&hide_border=true&bg_color=0B1220&title_color=F8FAFC&text_color=C8D9E6&icon_color=4F86A8&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RABNEER&show_icons=true&hide_border=true&bg_color=05070B&title_color=F8FAFC&text_color=B9CBD9&icon_color=477EA4&rank_icon=github" />
 &nbsp;
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=RABNEER&hide_border=true&background=0B1220&ring=4F86A8&fire=F8FAFC&currStreakLabel=C8D9E6&sideLabels=C8D9E6&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A9BA" />
+<img height="170" src="https://streak-stats.demolab.com?user=RABNEER&hide_border=true&background=05070B&ring=477EA4&fire=F8FAFC&currStreakLabel=B9CBD9&sideLabels=B9CBD9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=7F93A3" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RABNEER&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=RABNEER&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
 
 </div>
 
 ---
 
-## `08` · CURRENT DIRECTION
+## `06` / CURRENT DIRECTION
 
 <div align="center">
 
 ### **AI AGENTS → INFRASTRUCTURE → PRODUCTS**
 
-<sub>I'm interested in the layer that makes autonomous software actually useful, reliable, and capable of operating in the real world.</sub>
+<sub>Building software that doesn't just answer questions — it acts, communicates, reasons under constraints, and operates in the real world.</sub>
 
 <br><br>
 
-`research` &nbsp; `systems` &nbsp; `agents` &nbsp; `shipping`
+`research` &nbsp; `systems` &nbsp; `agents` &nbsp; `security` &nbsp; `shipping`
 
 </div>
 
@@ -246,12 +227,12 @@ A research project investigating whether transformer execution can be decoupled 
 
 **BUILD · BREAK · UNDERSTAND · REPEAT**
 
-<br>
+<br><br>
 
 <a href="mailto:ranveer@whiteroom.co.in">EMAIL</a> · <a href="https://linkedin.com/in/ranveer-kumar715">LINKEDIN</a> · <a href="https://ranveerkumar.netlify.app">WEBSITE</a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6F9F,50:1E3A5F,100:0B1220&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:244B6B,45:17253A,100:05070B&height=100&section=footer" />
 
 </div>
