@@ -1,6 +1,8 @@
-name: refresh profile system panel
+name: refresh profile visuals
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "30 2 * * *"
   workflow_dispatch:
@@ -8,8 +10,13 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: true
+
 jobs:
   render:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,13 +27,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Render panel
+      - name: Render system panel
         run: python .github/scripts/panel.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit panel
+      - name: Render contribution activity
+        run: python .github/scripts/activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Render latest commit ticker
+        run: python .github/scripts/ticker.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated visuals
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          commit_message: "chore: refresh profile system panel"
-          file_pattern: assets/panel.svg
+          commit_message: "chore: refresh profile visuals"
+          file_pattern: assets/panel.svg assets/activity.svg assets/ticker.svg
