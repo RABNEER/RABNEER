@@ -4,10 +4,18 @@
 
 <br><br>
 
+<img width="100%" src="assets/ticker.svg?v=1" alt="latest GitHub commit" />
+
+<br><br>
+
 <a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-2F4156?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/RABNEER?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-567C8D?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LINKEDIN-2F5068?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ranveer@whiteroom.co.in"><img src="https://img.shields.io/badge/EMAIL-24364B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<sub>AI builder · agent infrastructure · systems · on-device AI</sub>
 
 </div>
 
@@ -24,6 +32,24 @@ Most of my work starts with a question that sounds slightly unreasonable: **can 
 I learn by reading papers, breaking things, rebuilding them, and shipping the result.
 
 > **Build the thing. Understand the thing. Then make it useful.**
+
+<br>
+
+## ──── Changelog
+
+**v2.6.0** — AgentBox: identity, mailboxes and scoped capabilities
+
+**v2.5.0** — Viking: on-device security shields
+
+**v2.4.0** — StreamTransformer: layer streaming research release
+
+**v2.3.0** — LightLLM: 124M parameters, trained from scratch
+
+**v0.1.0** — wrote my first `<html>` tag. everything since is a fork.
+
+<br>
+
+<img width="100%" src="assets/rain.svg" alt="animated matrix divider" />
 
 <br>
 
@@ -81,11 +107,7 @@ I learn by reading papers, breaking things, rebuilding them, and shipping the re
 
 <br>
 
-## ──── System Monitor
-
-<p align="center">
-<img width="100%" src="assets/panel.svg" alt="GitHub system monitor" />
-</p>
+<img width="100%" src="assets/rain.svg" alt="animated matrix divider" />
 
 <br>
 
@@ -117,6 +139,14 @@ So I try to think **outcome first, implementation second**.
 
 <br>
 
+## ──── System Monitor
+
+<p align="center">
+<img width="100%" src="assets/panel.svg" alt="GitHub system monitor" />
+</p>
+
+<br>
+
 ## ──── Activity
 
 <p align="center">
@@ -132,6 +162,24 @@ So I try to think **outcome first, implementation second**.
 <a href="https://linkedin.com/in/ranveer-kumar715"><img src="https://img.shields.io/badge/LinkedIn-567C8D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://ranveer-kumar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-24364B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
+
+<br>
+
+<details>
+<summary><b>⚠️ sudo access — do not expand</b></summary>
+<br>
+
+```text
+$ sudo ./hidden.sh
+[sudo] password for visitor: ********
+access granted.
+```
+
+> you scrolled. respect.
+>
+> email me the phrase **“one layer deeper”** and I'll actually reply.
+
+</details>
 
 <br>
 
