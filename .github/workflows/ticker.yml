@@ -1,0 +1,32 @@
+name: refresh latest commit ticker
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-ticker
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render ticker
+        run: python .github/scripts/ticker.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore: refresh latest commit ticker"
+          file_pattern: assets/ticker.svg
