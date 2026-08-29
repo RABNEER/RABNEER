@@ -3,7 +3,7 @@
   <rect x="1.5" y="1.5" width="817" height="347" rx="12.5" fill="none" stroke="#2C4257" stroke-width="2"/>
   <circle cx="26" cy="24" r="5" fill="#27C93F"/>
   <text x="42" y="29" font-size="14" fill="#8BABC9">ranveer@github — system monitor</text>
-  <text x="794" y="29" text-anchor="end" font-size="12" fill="#3A5468">last sync 2026-08-28</text>
+  <text x="794" y="29" text-anchor="end" font-size="12" fill="#3A5468">last sync 2026-08-29</text>
   <line x1="0" y1="44" x2="820" y2="44" stroke="#1D2F40"/>
   <g opacity="0">
     <set attributeName="opacity" to="1" begin="0.15s" dur="0.1s" fill="freeze"/>
