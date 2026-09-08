@@ -20,7 +20,7 @@
   <g clip-path="url(#c1)"><text x="24" y="82" font-size="15"><tspan fill="#7EE787">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text></g>
   <g clip-path="url(#c2)"><text x="24" y="110" font-size="15" fill="#8BABC9">ranveer — ai builder · agent infra · systems</text></g>
   <g clip-path="url(#c3)"><text x="24" y="138" font-size="15"><tspan fill="#7EE787">$ </tspan><tspan fill="#E6EDF3">cat current.log</tspan></text></g>
-  <g clip-path="url(#c4)"><text x="24" y="166" font-size="15" fill="#8BABC9">building: AgentBox — infrastructure for autonomous agents</text></g>
+  <g clip-path="url(#c4)"><text x="24" y="166" font-size="15" fill="#8BABC9">building: GhostTrace — Linux kernel threat detector (eBPF)</text></g>
   <g clip-path="url(#c5)"><text x="24" y="194" font-size="15" fill="#8BABC9">research: StreamTransformer — push beyond VRAM limits</text></g>
   <g clip-path="url(#c6)"><text x="24" y="222" font-size="15"><tspan fill="#7EE787">$ </tspan><tspan fill="#E6EDF3">./deploy --profile</tspan></text></g>
 
